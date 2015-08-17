@@ -1,5 +1,5 @@
 # A public list of "Soylent-like" providers selling their products to Europe
-## As [http://www.soylent.com](soylent) is currently not selling outside the USA, here is a list of companies where to source a similar product.
+## As [soylent](http://www.soylent.com) is currently not selling outside the USA, here is a list of companies where to source a similar product.
 
 ## Companies
 - [Queal](https://queal.eu) 90 meals / 195€ - PLUS shipping to EU
@@ -8,7 +8,7 @@
 - [Joylent](https://www.joylent.eu/)
 - [Veetal](http://veetal.de/)
 - [Mana](http://mymana.eu/) 84 meals / 202€ - PLUS shipping to EU 
-- [http://www.solvio.me/]
+- (http://www.solvio.me/)
 - [http://jakeshake.eu/]
 - [http://www.ketosoy.com/]
 - [http://ambronite.com/]

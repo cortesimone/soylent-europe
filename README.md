@@ -13,3 +13,4 @@
 - [http://www.ketosoy.com/]
 - [http://ambronite.com/]
 - [http://www.soylentlife.nl/en/]
+- [http://huel.me/pages/alternative-to-soylent]

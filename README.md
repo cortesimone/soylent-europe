@@ -1,4 +1,5 @@
 # A public list of "Soylent-like" providers selling their products to Europe
+## As [http://www.soylent.com](soylent) is currently not selling outside the USA, here is a list of companies where to source a similar product.
 
 ## Companies
 - [Queal](https://queal.eu) 90 meals / 195€ - PLUS shipping to EU

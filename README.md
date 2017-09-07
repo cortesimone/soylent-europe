@@ -13,7 +13,7 @@ As [soylent](http://www.soylent.com) is currently not selling outside the USA, h
 - [Veetal](http://veetal.de/) 
 - (http://www.solvio.me/)
 - (http://jakeshake.eu/)
-- (http://www.ketosoy.com/)
+- (http://www.ketoone.com/)
 - (http://ambronite.com/)
 
 

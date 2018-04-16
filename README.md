@@ -3,7 +3,7 @@ As [soylent](http://www.soylent.com) is currently not selling outside the USA, h
 
 ## Companies
 - [Bertrand](http://bertrand.bio/) 90 meals / 269€ - FREE shipping to EU
-- [Huel](http://huel.me/) 84 meals / 230€ + 15€ shipping to EU
+- [Huel](https://eu.huel.com/) 84 meals / 230€ + 15€ shipping to EU
 - [Joylent](https://www.joylent.eu/) 24 meals / 60€ + 10/15€ shipping - Vegan: YES
 - [Mana](http://mymana.eu/) 84 meals / 202€ - PLUS shipping to EU 
 - [Purelent](https://purelent.eu/)  90 meals / 150€ + 15€ shipping to EU Vegan: NO
